@@ -1,6 +1,5 @@
 <template>
-  <p>Powered by <a
-      href="https://github.com/CokeMine/ServerStatus-Hotaru">ServerStatus-Hotaru</a></p>
+  <p>Powered by 小茗同学</p>
 </template>
 
 <script lang="ts">
