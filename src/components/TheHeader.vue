@@ -2,9 +2,9 @@
   <div class="ui vertical masthead center aligned" id="header">
     <div id="header-content">
       <h1 class="ui inverted header">
-        Server Status
+        养鸡场监测面板
       </h1>
-      <p>Servers' Probes Set up with ServerStatus</p>
+      <p>这是一堆可爱的小鸡🐔</p>
     </div>
   </div>
 </template>
